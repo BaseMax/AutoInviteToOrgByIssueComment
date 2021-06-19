@@ -35,7 +35,7 @@ if ".invite @" not in COMMENT and ".invite me" not in COMMENT:
   sys.exit()
 else:
 
-  if ".invite @" in COMMENT
+  if ".invite @" in COMMENT:
     USERNAME = COMMENT.replace(".invite @", "")
 
   print('Send invite for the @'+USERNAME)
