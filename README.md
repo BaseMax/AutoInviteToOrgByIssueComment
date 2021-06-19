@@ -9,6 +9,8 @@ START, FORK this.
 Next You can write `.invite me` at [here](https://github.com/BaseMax/AutoInviteToOrgByIssueComment/issues/1
 ), after that you will be invited to a surprising and fantastic organization.
 
+----------
+
 ## Deploy to your organization
 
 #### Create `MY_GITHUB_KEY` variable at Secrets
