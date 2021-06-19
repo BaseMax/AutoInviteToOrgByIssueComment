@@ -7,14 +7,6 @@ A GitHub action script to automatically invite everyone to the organization who 
 You can write `.invite me` at [here](https://github.com/BaseMax/AutoInviteToOrgByIssueComment/issues/1
 ), after that you will be invited to a surprising and fantastic organization.
 
-# Auto Invite To The Organization By Star
-
-A GitHub Action script to automatically invite everyone to your organization that `stars` your repository. 
-
-## What is this?
-
-### You can FORK and STAR this repository, after that you will be invited to a surprising and fantastic organization.
-
 ## Deploy to your organization
 
 #### Create `MY_GITHUB_KEY` variable at Secrets
