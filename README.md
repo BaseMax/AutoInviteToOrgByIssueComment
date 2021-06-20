@@ -66,7 +66,7 @@ jobs:
 
 ### Create `.github/workflows/AutoInviteToOrgByIssueComment.py` file
 
-```
+```python
 # Max Base
 # 2021-06-19
 # https://github.com/BaseMax/AutoInviteToOrgByIssueComment
